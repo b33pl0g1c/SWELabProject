@@ -1,5 +1,5 @@
 ## Motor Part Shop Software
-This is a project made by group 18 for Software Engineering Laboratory (CS3074).
+This is a project made by group 18 for [Software Engineering Laboratory (CS3074)](https://website.nitrkl.ac.in/Academics/AcademicDepartments/SyllabiDetails.aspx?d=Q1M6Q29tcHV0ZXIgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmc=-MBb7wMG/NVo=&di=OA==-GS5YNjRcEt0=&c=Q29tcHV0ZXIgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcgKEIuVGVjaC4gLSA0eXJzKQ==-0cT/CxL+Srw=&t=VUc=-/CGGPdtU1IU=&s=Njg4Mw%3d%3d-MOdU7dvGBPY%3d).
 
 Problem Statement:
 The motor parts shop deals with large number of motor parts of various manufacturers and
