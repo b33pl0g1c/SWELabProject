@@ -1,0 +1,191 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T14:18:27.987Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zfamERr4ycetXNznEAXt" version="21.1.5" type="device">
+  <diagram name="Page-1" id="Br9azxL4yE_4B7ivNwfj">
+    <mxGraphModel dx="1221" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c59rOInWtLs_jkFZpN9e-1" value="Shop" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="220" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-2" value="+name: ABC Motor Parts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-1" vertex="1">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-3" value="+address: Sector-2, Rourkela" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-1" vertex="1">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-16" value="+total_price: $133333337" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-1" vertex="1">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-4" value="+owner: Mr. Elliot Alderson" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-1" vertex="1">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-21" value="Brake" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="450" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-22" value="+threshold: 40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-21" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-23" value="+vendor: Hyundai" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-21" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-24" value="+amount: 20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-21" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-25" value="Gear" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="450" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-26" value="+threshold:&amp;nbsp; 30&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-25" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-27" value="+vendor: Toyota&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-25" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-28" value="+amount: 30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-25" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-29" value="Seat" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="450" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-30" value="+threshold:&amp;nbsp; 56" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-29" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-31" value="+vendor: Mercedes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-29" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-32" value="+amount: 45" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-29" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-33" value="Windshield" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="450" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-34" value="+threshold: 77&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-33" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-35" value="+vendor:&amp;nbsp; Tata" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-33" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-36" value="+amount: 47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-33" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-37" value="Label1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-38" value="+part_no: 283" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-37" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-39" value="+size:&amp;nbsp; 95" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-37" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-40" value="+price: 2690" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-37" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-57" value="Label2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-58" value="+part_no:&amp;nbsp; 261" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-57" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-59" value="+size:&amp;nbsp; 37" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-57" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-60" value="+price:&amp;nbsp; 18835" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-57" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-61" value="Label3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-62" value="+part_no: 261" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-61" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-63" value="+size: 67&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-61" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-64" value="+price: 13874" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-61" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-65" value="Label4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-66" value="+part_no: 405" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-65" vertex="1">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-67" value="+size:&amp;nbsp; 46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-65" vertex="1">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-68" value="+price: 7100" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;rounded=1;" parent="c59rOInWtLs_jkFZpN9e-65" vertex="1">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-74" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="420" as="sourcePoint" />
+            <mxPoint x="750" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-75" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="440" as="sourcePoint" />
+            <mxPoint x="230" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-77" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="450" as="sourcePoint" />
+            <mxPoint x="420" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-78" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="450" as="sourcePoint" />
+            <mxPoint x="590" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-79" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;fontSize=14;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="450" as="sourcePoint" />
+            <mxPoint x="750" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c59rOInWtLs_jkFZpN9e-80" value="Figure: Object Diagram for Motor Part Shop Software" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=9;fontSize=15;fontStyle=1;fontFamily=https://fonts.google.com/specimen/Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dhttps%253A%252F%252Ffonts.google.com%252Fspecimen%252FPoppins;" parent="1" vertex="1">
+          <mxGeometry x="230" y="790" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj9u2xs_XURP0vMs3Tkp-3" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=1;" edge="1" parent="1" source="c59rOInWtLs_jkFZpN9e-1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="650" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj9u2xs_XURP0vMs3Tkp-8" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c59rOInWtLs_jkFZpN9e-21" target="c59rOInWtLs_jkFZpN9e-37">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="230" y="590" as="sourcePoint" />
+            <mxPoint x="260" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj9u2xs_XURP0vMs3Tkp-12" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c59rOInWtLs_jkFZpN9e-28" target="c59rOInWtLs_jkFZpN9e-57">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="415" y="580" as="sourcePoint" />
+            <mxPoint x="560" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj9u2xs_XURP0vMs3Tkp-14" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c59rOInWtLs_jkFZpN9e-29" target="c59rOInWtLs_jkFZpN9e-61">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="580" y="610" as="sourcePoint" />
+            <mxPoint x="580" y="691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj9u2xs_XURP0vMs3Tkp-15" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="c59rOInWtLs_jkFZpN9e-65">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="755" y="573" as="sourcePoint" />
+            <mxPoint x="740" y="671" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="755" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
