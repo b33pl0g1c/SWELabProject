@@ -24,7 +24,7 @@ showing the sales for each day of the month.
 Submitted to: **[Dr. Puneet Kumar Jain](mailto:jainp@nitrkl.ac.in)**
 
 #### Team Members:
-1.Akash Poudel\
+1.[Akash Poudel](https://np.linkedin.com/in/akashp011)\
 2.[Awantika Mallick](https://np.linkedin.com/in/awantika-mallick-33ab40207)\
 3.[Prabesh Kumar Sah](https://np.linkedin.com/in/prabesh-sah-831482213)\
 4.[Suwesh Prasad Sah](https://np.linkedin.com/in/suwesh-prasad-sah-9193a1202)
